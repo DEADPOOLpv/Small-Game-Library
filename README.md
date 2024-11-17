@@ -22,7 +22,7 @@ This repository contains a collection of classic arcade games, including Tetris,
 
 **How to Use**
 
-1. **Clone the repository:** ```bash git clone https://github.com/DEADPOOLpv/Small-Game-Library.git```
+1. **Clone the repository:** ```git clone https://github.com/DEADPOOLpv/Small-Game-Library.git```
 2. **Open the index.html file:** Open the index.html file in your web browser.
 3. **Play the games:** Use the arrow keys to control the games.
 
