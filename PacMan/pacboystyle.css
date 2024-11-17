@@ -1,0 +1,104 @@
+body {
+	background-color:black;
+}
+
+h1 {
+	font-family: monospace;
+	color: yellow;
+	text-align:center;
+	font-size: 48px;
+	margin: 10px 0 10px 0;
+}
+
+th {
+	font-family: monospace;
+	background-color: blue;
+	color: yellow;
+	text-align: center;
+	font-size: 32px;
+	padding: 0 20px 0 20px;
+}
+
+td {
+	font-family: monospace;
+	color: orange;
+	text-align: center;
+	font-size: 32px;
+	padding: 0 20px 0 20px;
+}
+
+p {
+	font-size: 20px;
+	font-family: monospace;
+	color:yellow;
+	margin: 5px 30px 5px 30px;
+	text-align: justify;
+}
+
+li {
+	font-size: 20px;
+	font-family: monospace;
+	color:yellow;
+	margin: 5px 30px 5px 30px;
+}
+
+canvas {
+	border: 1px solid white;
+	display: block;
+	margin: auto;
+}
+
+button {
+	width: 50px;
+}
+
+ul {
+	list-style-image: url('Pacboy.png');
+}
+
+h2 {
+	font-family: monospace;
+	color: orange;
+	text-align: center;
+}
+
+h4 {
+	margin: 5px 15px 0 5px;
+}
+
+a:link {
+	color: orange;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a:visited {
+	color: orange;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+}
+
+a:active {
+	color: blue;
+}
+
+.buttonbar {
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid white;
+}
+
+.textblock {
+	margin: auto;
+	margin-top: 30px;
+	width: 50%;
+	border: 1px solid white;
+}
+
+footer {
+	text-align: right;
+	color: orange;
+}
